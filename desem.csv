@@ -1,7 +1,4 @@
- Taxa de desemprego - Brasil
-Taxa de desemprego 16a e+ por Município e Ano
-Período:1991, 2000, 2010
-"Município";"1991";"2000";"2010";"Total"
+"MunicÃ­pio";"1991";"2000";"2010";"Total"
 "110001 ALTA FLORESTA D'OESTE";1,50;6,24;5,01;4,24
 "110002 ARIQUEMES";2,48;9,24;4,64;5,33
 "110003 CABIXI";2,61;5,75;2,49;3,71
@@ -5564,11 +5561,3 @@ Período:1991, 2000, 2010
 "522220 VILA BOA";...;14,78;8,16;10,82
 "522230 VILA PROPICIO";...;9,00;2,71;5,34
 "530010 BRASILIA";4,66;16,63;7,83;10,02
-"Total";4,90;14,67;7,42;9,23
- Fonte: IBGE - Censos Demográficos
- Notas:
- 
- Taxa de desemprego: Percentual da população de 16 anos e mais, economicamente ativa, desocupada.
- 
- Consulte o sítio da Secretaria Estadual de Saúde e do
- IBGE para mais informações.
